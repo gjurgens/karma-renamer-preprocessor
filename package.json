@@ -1,0 +1,20 @@
+{
+  "name": "karma-renamer-preprocessor",
+  "version": "0.0.1",
+  "description": "A Karma plugin. Rename served files on the fly by renamer.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gjurgens/karma-renamer-preprocessor"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-preprocessor",
+    "renamer"
+  ],
+  "author": "Gabriel Jürgens <gabriel@jurgens.com.ar>",
+  "peerDependencies": {
+    "karma": ">=0.9"
+  },
+  "license": "MIT"
+}
